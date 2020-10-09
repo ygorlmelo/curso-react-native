@@ -1,3 +1,3 @@
-# curso-react-native
+# Curso React Native - Udemy
 
-Testando 
+Alguns projetos desenvolvidos durante o curso na Udemy sobre React Native
